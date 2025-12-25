@@ -10,3 +10,5 @@ Core spring already reduces boilerplate code and provides lots of features for j
 
 - Auto configurations
 - Standalone applications
+
+No need to create an application annotation context.
