@@ -8,3 +8,5 @@ Core spring already reduces boilerplate code and provides lots of features for j
 
 [Playlist](https://www.youtube.com/watch?v=1993zSY5UBI&list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue&index=1)
 
+- Auto configurations
+- Standalone applications
