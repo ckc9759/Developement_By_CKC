@@ -12,3 +12,5 @@ Core spring already reduces boilerplate code and provides lots of features for j
 - Standalone applications
 
 No need to create an application annotation context. Eg. `@SpringBootApplication` annotation.
+
+A bean can be declared once and can be used anywhere in the codebase.
