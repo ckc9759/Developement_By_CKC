@@ -25,5 +25,12 @@ private Dog dog;
 
 ---  
 
+ORM = A technique used to map java objects in db tables. (Object Relational Mapping)
+JPA = Java Persistence API, a way to acheive ORM. Includes interfaces and annotations. To use JPA, we need a persistence provider (ORM tool)
+
+ORM tools -> Hibernate, EclipseLink, OpenJPA
+
+
+
 
 
